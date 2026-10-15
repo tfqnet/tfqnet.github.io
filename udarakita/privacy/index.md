@@ -4,10 +4,10 @@ title: Udara Kita Privacy Policy
 
 # Udara Kita Privacy Policy
 
-**Effective date:** [DATE OF PUBLISHING]
+**Effective date:** 16 Oct 2026
 **App:** Udara Kita (Android and iOS)
-**Developer:** [YOUR NAME OR STUDIO NAME], Malaysia
-**Contact:** [CONTACT EMAIL]
+**Developer:** Taufiq Tomadan, Malaysia
+**Contact:** tfqnet@gmail.com
 
 *Versi Bahasa Melayu di bawah.*
 
@@ -72,17 +72,17 @@ If the app starts using information in a new way, this policy will be updated be
 
 ## Contact
 
-[YOUR NAME OR STUDIO NAME]
-[CONTACT EMAIL]
+Taufiq Tomadan
+tfqnet@gmail.com
 
 ---
 
 # Dasar Privasi Udara Kita
 
-**Tarikh berkuat kuasa:** [TARIKH DITERBITKAN]
+**Tarikh berkuat kuasa:** 16 Oct 2026
 **Aplikasi:** Udara Kita (Android dan iOS)
-**Pembangun:** [NAMA ANDA ATAU NAMA STUDIO], Malaysia
-**Hubungi:** [E-MEL UNTUK DIHUBUNGI]
+**Pembangun:** Taufiq Tomadan, Malaysia
+**Hubungi:** tfqnet@gmail.com
 
 Udara Kita memaparkan kualiti udara bagi tempat-tempat di Malaysia, dalam aplikasi dan dalam widget skrin utama. Dasar ini menerangkan maklumat yang digunakan oleh aplikasi dan ke mana ia dihantar.
 
